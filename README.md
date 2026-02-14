@@ -1,9 +1,14 @@
-### What is Kannada?
+# ಕನ್ನಡ / Kannada
 
-Kannada is one of the most widely spoken langages in the world, spoken by upwards of 50 million people.
+A bilingual, semi-conscious repository dedicated to learning Kannada.
 
-### What is this?
+Kannada is one of the most widely spoken languages in the world, spoken by upwards of 50 million people.
 
-This is a defunct repository for assembling free Kannada language learning information.
+### What's here
 
-The new repository is here: [https://github.com/chirs/languages]
+- **letters.py** — Kannada-English letter mappings (vowels, consonants, numerals)
+- **dialogues** — Sample dialogues for language learning
+
+### Contributing
+
+This is a free and open resource. Contributions welcome.
