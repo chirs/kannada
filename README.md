@@ -6,7 +6,7 @@ Kannada is one of the most widely spoken languages in the world, spoken by upwar
 
 ### What's here
 
-- **letters.py** — Kannada-English letter mappings (vowels, consonants, numerals)
+- **letters/** — Kannada-English letter mappings (vowels, consonants, numerals)
 - **dialogues** — Sample dialogues for language learning
 
 ### Contributing
